@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{4FF50C2F-B210-470D-AFC3-6897F3FA4B27}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Catalog", "Catalog", "{51AB2B02-1A81-4BCF-81D9-6F51AB574D2F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Services.Catalog", "Services\Catalog\Services.Catalog\Services.Catalog.csproj", "{646848FC-ED8C-40C0-90F9-34B4404598E2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{14E65CB3-DDA4-4C0E-A3B7-677AB81BF00F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shared", "Shared\Shared\Shared.csproj", "{65F2C30F-B884-4D50-91D3-B9EF7D1A1D65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{646848FC-ED8C-40C0-90F9-34B4404598E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{646848FC-ED8C-40C0-90F9-34B4404598E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{646848FC-ED8C-40C0-90F9-34B4404598E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{646848FC-ED8C-40C0-90F9-34B4404598E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65F2C30F-B884-4D50-91D3-B9EF7D1A1D65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65F2C30F-B884-4D50-91D3-B9EF7D1A1D65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65F2C30F-B884-4D50-91D3-B9EF7D1A1D65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65F2C30F-B884-4D50-91D3-B9EF7D1A1D65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{51AB2B02-1A81-4BCF-81D9-6F51AB574D2F} = {4FF50C2F-B210-470D-AFC3-6897F3FA4B27}
+		{646848FC-ED8C-40C0-90F9-34B4404598E2} = {51AB2B02-1A81-4BCF-81D9-6F51AB574D2F}
+		{65F2C30F-B884-4D50-91D3-B9EF7D1A1D65} = {14E65CB3-DDA4-4C0E-A3B7-677AB81BF00F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2A200B1-1926-4F36-B1B6-473787A23883}
+	EndGlobalSection
+EndGlobal
