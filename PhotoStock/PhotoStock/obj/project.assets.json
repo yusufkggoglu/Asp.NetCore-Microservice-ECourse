@@ -660,9 +660,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yusuf\\Desktop\\Microservices\\Microservice\\PhotoStock\\PhotoStock\\PhotoStock.csproj",
-      "projectName": "PhotoStock",
-      "projectPath": "C:\\Users\\yusuf\\Desktop\\Microservices\\Microservice\\PhotoStock\\PhotoStock\\PhotoStock.csproj",
+      "projectUniqueName": "C:\\Users\\yusuf\\Desktop\\Microservices\\Microservice\\PhotoStock\\PhotoStock\\Services.PhotoStock.csproj",
+      "projectName": "Services.PhotoStock",
+      "projectPath": "C:\\Users\\yusuf\\Desktop\\Microservices\\Microservice\\PhotoStock\\PhotoStock\\Services.PhotoStock.csproj",
       "packagesPath": "C:\\Users\\yusuf\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\yusuf\\Desktop\\Microservices\\Microservice\\PhotoStock\\PhotoStock\\obj\\",
       "projectStyle": "PackageReference",
