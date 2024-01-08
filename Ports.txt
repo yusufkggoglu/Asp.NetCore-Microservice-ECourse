@@ -7,3 +7,4 @@ Services
 	-fakepaymentAPI => 5016
 
 identityServer => 5001
+gateway => 5000
