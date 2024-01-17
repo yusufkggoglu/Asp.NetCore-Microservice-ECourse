@@ -55,3 +55,14 @@ C:\Users\yusuf\Desktop\Microservices\Microservice\Services\Catalog\Services.Cata
 C:\Users\yusuf\Desktop\Microservices\Microservice\Services\Catalog\Services.Catalog\obj\Debug\net5.0\Services.Catalog.pdb
 C:\Users\yusuf\Desktop\Microservices\Microservice\Services\Catalog\Services.Catalog\obj\Debug\net5.0\Services.Catalog.genruntimeconfig.cache
 C:\Users\yusuf\Desktop\Microservices\Microservice\Services\Catalog\Services.Catalog\obj\Debug\net5.0\ref\Services.Catalog.dll
+C:\Users\yusuf\Desktop\Microservices\Microservice\Services\Catalog\Services.Catalog\bin\Debug\net5.0\Automatonymous.dll
+C:\Users\yusuf\Desktop\Microservices\Microservice\Services\Catalog\Services.Catalog\bin\Debug\net5.0\GreenPipes.dll
+C:\Users\yusuf\Desktop\Microservices\Microservice\Services\Catalog\Services.Catalog\bin\Debug\net5.0\MassTransit.dll
+C:\Users\yusuf\Desktop\Microservices\Microservice\Services\Catalog\Services.Catalog\bin\Debug\net5.0\MassTransit.AspNetCoreIntegration.dll
+C:\Users\yusuf\Desktop\Microservices\Microservice\Services\Catalog\Services.Catalog\bin\Debug\net5.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Users\yusuf\Desktop\Microservices\Microservice\Services\Catalog\Services.Catalog\bin\Debug\net5.0\MassTransit.RabbitMqTransport.dll
+C:\Users\yusuf\Desktop\Microservices\Microservice\Services\Catalog\Services.Catalog\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yusuf\Desktop\Microservices\Microservice\Services\Catalog\Services.Catalog\bin\Debug\net5.0\NewId.dll
+C:\Users\yusuf\Desktop\Microservices\Microservice\Services\Catalog\Services.Catalog\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\yusuf\Desktop\Microservices\Microservice\Services\Catalog\Services.Catalog\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\yusuf\Desktop\Microservices\Microservice\Services\Catalog\Services.Catalog\bin\Debug\net5.0\RabbitMQ.Client.dll
