@@ -41,3 +41,14 @@ C:\Users\yusuf\Desktop\Microservices\Microservice\Services\FakePayment\Services.
 C:\Users\yusuf\Desktop\Microservices\Microservice\Services\FakePayment\Services.FakePayment\obj\Debug\net5.0\ref\Services.FakePayment.dll
 C:\Users\yusuf\Desktop\Microservices\Microservice\Services\FakePayment\Services.FakePayment\bin\Debug\net5.0\Shared.dll
 C:\Users\yusuf\Desktop\Microservices\Microservice\Services\FakePayment\Services.FakePayment\bin\Debug\net5.0\Shared.pdb
+C:\Users\yusuf\Desktop\Microservices\Microservice\Services\FakePayment\Services.FakePayment\bin\Debug\net5.0\Automatonymous.dll
+C:\Users\yusuf\Desktop\Microservices\Microservice\Services\FakePayment\Services.FakePayment\bin\Debug\net5.0\GreenPipes.dll
+C:\Users\yusuf\Desktop\Microservices\Microservice\Services\FakePayment\Services.FakePayment\bin\Debug\net5.0\MassTransit.dll
+C:\Users\yusuf\Desktop\Microservices\Microservice\Services\FakePayment\Services.FakePayment\bin\Debug\net5.0\MassTransit.AspNetCoreIntegration.dll
+C:\Users\yusuf\Desktop\Microservices\Microservice\Services\FakePayment\Services.FakePayment\bin\Debug\net5.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Users\yusuf\Desktop\Microservices\Microservice\Services\FakePayment\Services.FakePayment\bin\Debug\net5.0\MassTransit.RabbitMqTransport.dll
+C:\Users\yusuf\Desktop\Microservices\Microservice\Services\FakePayment\Services.FakePayment\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yusuf\Desktop\Microservices\Microservice\Services\FakePayment\Services.FakePayment\bin\Debug\net5.0\NewId.dll
+C:\Users\yusuf\Desktop\Microservices\Microservice\Services\FakePayment\Services.FakePayment\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\yusuf\Desktop\Microservices\Microservice\Services\FakePayment\Services.FakePayment\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\yusuf\Desktop\Microservices\Microservice\Services\FakePayment\Services.FakePayment\bin\Debug\net5.0\RabbitMQ.Client.dll
