@@ -77,9 +77,9 @@ namespace Course.IdentityServer
                     AllowedGrantTypes = GrantTypes.ResourceOwnerPassword, //refresh token var
                     AllowedScopes = {
                         "basket_fullpermission",
-                        "discount_fullpermission",
+                        //"discount_fullpermission",
                         "order_fullpermission",
-                        "fakepayment_fullpermission",
+                        //"fakepayment_fullpermission",
                         "gateway_fullpermission",
                          IdentityServerConstants.StandardScopes.Email,
                          IdentityServerConstants.StandardScopes.OpenId,
@@ -92,7 +92,21 @@ namespace Course.IdentityServer
                     RefreshTokenExpiration=TokenExpiration.Absolute,
                     AbsoluteRefreshTokenLifetime=(int)(DateTime.Now.AddDays(60)-DateTime.Now).TotalSeconds,
                     RefreshTokenUsage = TokenUsage.ReUse
-                }
+                },
+                  new Client
+                {
+                    ClientName="Token Exchange Client",
+                    ClientId = "TokenExchangeClient",
+                    ClientSecrets = {new Secret("secret".Sha256())},
+                    AllowedGrantTypes = new[]{"urn:ietf:params:oauth:grant-type:token-exchange"},
+                    AllowedScopes = {
+                       "discount_fullpermission",
+                       "fakepayment_fullpermission",
+                        IdentityServerConstants.StandardScopes.OpenId,
+
+                      }
+                },
+
             };
     }
 }

@@ -44,3 +44,6 @@ C:\Users\yusuf\Desktop\Microservices\Microservice\Gateways\Gateway\bin\Debug\net
 C:\Users\yusuf\Desktop\Microservices\Microservice\Gateways\Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\yusuf\Desktop\Microservices\Microservice\Gateways\Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\yusuf\Desktop\Microservices\Microservice\Gateways\Gateway\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\yusuf\Desktop\Microservices\Microservice\Gateways\Gateway\bin\Debug\net5.0\IdentityModel.dll
+C:\Users\yusuf\Desktop\Microservices\Microservice\Gateways\Gateway\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\yusuf\Desktop\Microservices\Microservice\Gateways\Gateway\bin\Debug\net5.0\System.Text.Json.dll
